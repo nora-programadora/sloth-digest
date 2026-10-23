@@ -1,0 +1,39 @@
+10/20/26, 8:58 PM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+10/20/26, 8:58 PM - Maya created group "Launch Crew"
+10/20/26, 8:59 PM - Maya added you
+10/20/26, 9:02 PM - Maya: Hey team, quick sync before the week gets crazy
+10/20/26, 9:03 PM - Leo: Hey! Still recovering from the weekend lol
+10/20/26, 9:04 PM - Priya: Same. Did anyone watch the match on Sunday?
+10/20/26, 9:05 PM - Leo: Don't even talk to me about it 😭
+10/20/26, 9:06 PM - Maya: Ok focus people 😄 The client demo is Thursday at 5:00 PM
+10/20/26, 9:06 PM - Maya: Here's what I need before then:
+- Sam, can you send me the updated pricing doc by Wednesday at noon?
+- Leo, the login bug has to be fixed before the demo
+- Priya, slides need a final pass
+10/20/26, 9:09 PM - Leo: On it. I think I know what's causing it, should have a fix by tomorrow evening
+10/20/26, 9:10 PM - Priya: I'll finish the slides tomorrow night. Sam, can you review them after? I'd love a second pair of eyes
+10/20/26, 9:12 PM - Sam: Sure, send them over when ready
+10/20/26, 9:12 PM - Priya: 🙏
+10/20/26, 9:15 PM - Leo: <Media omitted>
+10/20/26, 9:15 PM - Leo: this is what the login error looks like btw
+10/20/26, 9:16 PM - Maya: Ugh, that's ugly. Please prioritize it
+10/20/26, 9:18 PM - Priya: Anyone want to order pizza for the team lunch on Friday?
+10/20/26, 9:19 PM - Leo: Yes. Pineapple is non-negotiable
+10/20/26, 9:19 PM - Maya: Absolutely not 😂
+10/20/26, 9:21 PM - Sam: I'm in for pizza. No pineapple
+10/20/26, 9:30 PM - Maya: Ok that's all for tonight, talk tomorrow
+10/21/26, 8:12 AM - Leo: Heads up, staging is down. Looking into it
+10/21/26, 8:40 AM - Leo: False alarm, it was an expired certificate. Staging is back up
+10/21/26, 8:41 AM - Maya: Thanks Leo, glad it was quick
+10/21/26, 10:05 AM - Maya: Small change: the client asked to move the demo to Thursday at 4:30 PM instead of 5:00
+10/21/26, 10:06 AM - Priya: Noted, I'll adjust the schedule slide
+10/21/26, 10:20 AM - Sam: Quick question Maya, should the pricing doc include the annual plan too?
+10/21/26, 10:24 AM - Maya: Yes please, include both monthly and annual
+10/21/26, 10:25 AM - Sam: Got it
+10/21/26, 12:47 PM - Leo: Anyone have a good coffee place near the office?
+10/21/26, 12:49 PM - Priya: The one on Main Street, the oat latte is great
+10/21/26, 12:50 PM - Leo: Perfect, thanks
+10/21/26, 6:32 PM - Leo: Login bug fixed and pushed to staging. Maya, can you test it tomorrow morning?
+10/21/26, 6:35 PM - Maya: Will do first thing
+10/21/26, 9:48 PM - Priya: Slides are ready, sending them to Sam now
+10/21/26, 9:49 PM - Priya: Sam, if you can review by tomorrow afternoon that would be perfect
