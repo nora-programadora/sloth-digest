@@ -1,10 +1,9 @@
 {
   "name": "sloth-digest",
   "version": "1.0.0",
-  "description": "Local AI that reads your exported chats overnight and leaves a short morning digest. Runs offline with Ollama. + Gemma",
-  "main": "index.js",
+  "description": "Local AI that reads your exported chats overnight and leaves a short morning digest. Runs offline with Ollama + Gemma.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "parse": "tsx src/parse-test.ts"
   },
   "repository": {
     "type": "git",
@@ -12,10 +11,15 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/nora-programadora/sloth-digest/issues"
   },
-  "homepage": "https://github.com/nora-programadora/sloth-digest#readme"
+  "homepage": "https://github.com/nora-programadora/sloth-digest#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
 }
