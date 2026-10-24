@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Local AI that reads your exported chats overnight and leaves a short morning digest. Runs offline with Ollama + Gemma.",
   "scripts": {
-    "parse": "tsx src/parse-test.ts"
+    "parse": "tsx src/parse-test.ts",
+    "summarize": "tsx src/summarize-test.ts",
+    "digest": "tsx src/index.ts"
   },
   "repository": {
     "type": "git",

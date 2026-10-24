@@ -1,0 +1,27 @@
+{
+  "summary": "The team is preparing for a client demo on Thursday at 4:30 PM, with Sam responsible for sending the updated pricing document by Wednesday at noon and reviewing Priya’s slides. Leo is fixing a login bug and has pushed a fix to staging.",
+  "tasks_for_me": [
+    {
+      "task": "Send the updated pricing doc by Wednesday at noon",
+      "asked_by": "Maya",
+      "due": "Wed, Oct 21, 12:00 PM"
+    },
+    {
+      "task": "Review Priya’s slides after she sends them",
+      "asked_by": "Priya",
+      "due": "Wed, Oct 21, 4:00 PM"
+    },
+    {
+      "task": "Test the login bug fix in staging",
+      "asked_by": "Leo",
+      "due": "Thu, Oct 22, 9:00 AM"
+    }
+  ],
+  "key_dates": [
+    {
+      "event": "Client Demo",
+      "when": "Thu, Oct 22, 4:30 PM"
+    }
+  ],
+  "urgent": false
+}

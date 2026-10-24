@@ -1,0 +1,60 @@
+{
+  "summary": "The team needs to fix the login bug, finalize the client demo slides, and Sam needs to send the updated pricing document by Wednesday at noon. The client demo isscheduled for Thursday at 4:30 PM.",
+  "key_dates": [
+    {
+      "event": "Client Demo",
+      "when": "Thursday at 4:30 PM"
+    },
+    {
+      "event": "Pricing Doc Due",
+      "when": "Wednesday at noon"
+    }
+  ],
+  "urgent": false,
+  "tasks": [
+    {
+      "task": "Send updated pricing doc",
+      "assignee": "Sam",
+      "asked_by": "Maya",
+      "due": "Wednesday at noon"
+    },
+    {
+      "task": "Fix login bug",
+      "assignee": "Leo",
+      "asked_by": "Maya",
+      "due": "Tomorrow evening"
+    },
+    {
+      "task": "Final pass on slides",
+      "assignee": "Priya",
+      "asked_by": "Maya",
+      "due": "Tomorrow night"
+    },
+    {
+      "task": "Review slides",
+      "assignee": "Sam",
+      "asked_by": "Priya",
+      "due": "Tomorrow afternoon"
+    },
+    {
+      "task": "Test login bug",
+      "assignee": "Maya",
+      "asked_by": "Leo",
+      "due": "Tomorrow morning"
+    }
+  ],
+  "tasks_for_me": [
+    {
+      "task": "Send updated pricing doc",
+      "assignee": "Sam",
+      "asked_by": "Maya",
+      "due": "Wednesday at noon"
+    },
+    {
+      "task": "Review slides",
+      "assignee": "Sam",
+      "asked_by": "Priya",
+      "due": "Tomorrow afternoon"
+    }
+  ]
+}

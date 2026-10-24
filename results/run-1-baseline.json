@@ -1,0 +1,34 @@
+
+{
+  "summary": "The client demo is scheduled for Thursday at 4:30 PM, and Sam needs to send the updated pricing document by Wednesday at noon. Leo has fixed the login bug and Maya will test it tomorrow morning.",
+  "tasks_for_me": [
+    {
+      "task": "Send updated pricing document by Wednesday at noon",
+      "asked_by": "Maya",
+      "due": "Wednesday at noon"
+    },
+    {
+      "task": "Review slides after Priya sends them",
+      "asked_by": "Priya",
+      "due": "Tomorrow afternoon"
+    },
+    {
+      "task": "Test the login bug fix",
+      "asked_by": "Maya",
+      "due": "Tomorrow morning"
+    }
+  ],
+  "key_dates": [
+    {
+      "event": "Client Demo",
+      "when": "Thursday at 4:30 PM"
+    },
+    {
+      "event": "Pricing Doc Due",
+      "when": "Wednesday at noon"
+    }
+  ],
+  "urgent": true
+}
+
+//Done in 20.3s
