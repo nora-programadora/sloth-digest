@@ -9,8 +9,8 @@
 
 Built for the [Hacktoberfest Open-Source AI Challenge, Week 3: Slow and Steady](https://dev.to/challenges/hacktoberfest-week3-2026-10-19).
 
-- 📝 Read the post on DEV: [[TODO: POST_URL]]
-- 🎥 Demo video: [[TODO: VIDEO_URL]]
+- 📝 Read the post on DEV: [POST](https://dev.to/noraprogramadora/sloth-digest-a-local-ai-that-reads-my-group-chats-while-i-sleep-26o4-temp-slug-5874492?preview=67f67fc080ec1f72e7710bdadeaac8b98d31c5b4af07057cf388976028c3d7ebc1eeafdf37e871e7919a5eec9e3e84192c124cb8145c9ab07a1d585f)
+- 🎥 Demo video: [VIDEO DEMO](https://youtu.be/4BhDWZK64_M)
 
 ---
 
